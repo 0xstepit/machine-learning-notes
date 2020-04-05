@@ -1,3 +1,6 @@
 # Exclude macOS .DS_Store file
 *.DS_Store
 
+# Exclude Jupiter notebooks checkpoints
+*.ipynb_checkpoints
+
