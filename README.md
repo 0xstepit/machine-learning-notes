@@ -22,7 +22,17 @@ This repo is intended to assemble a collection of Colab Notebooks of the course 
     * Minimizing Least Squares
     * Regularization
     * Bayesian Linear Regression
- 3. [Linear Models for Classifications](lectures/02_Linear_Models_for_Classifications.ipynb)
+ 3. [Linear Models for Classification](lectures/02_Linear_Models_for_Classification.ipynb)
+    * Linear Classification
+    * Discriminant Functions
+    * Probabilistic Discriminative Approach
+ 4. [Bias-Variance and Model Selection](lectures/03_Bias_Variance_and_Model_Selection.ipynb)
+    * No Free-Lunch Theorems
+    * Bias-Variance Trade-off
+    * Curse of Dimensionality
+    * Feature Selection
+    * Dimensionality Reduction
+    * Bagging and Boosting
 
 The main idea is to continuously update this bunch of notes with papers and codes. If anyone wants to contribute (review, pictures, equations, ecc..) is more than welcome :beer:
 
