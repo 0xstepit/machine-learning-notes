@@ -3,4 +3,4 @@
 
 # Exclude Jupiter notebooks checkpoints
 *.ipynb_checkpoints
-
+**/*.ipynb_checkpoints/
