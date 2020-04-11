@@ -17,7 +17,7 @@ This repo is intended to assemble a collection of Colab Notebooks of the course 
 <p align="center">
 <img src="storage/book3.png" width="150"  hspace="30" /> <img  hspace="30" src="storage/book2.png" width="180" />  
 </p>
-<img  hspace="20" src="storage/book2.png" width="190" /> 
+
 # Table of Contents
  1. [Introduction](lectures/00_Introduction.ipynb)
     * Ovierview of Supervised Learning
