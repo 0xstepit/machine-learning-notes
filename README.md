@@ -31,6 +31,7 @@ This repo is intended to assemble a collection of Colab Notebooks of the course 
     * Bias-Variance Trade-off
     * Curse of Dimensionality
     * Feature Selection
+    * Shrinkage
     * Dimensionality Reduction
     * Bagging and Boosting
 
