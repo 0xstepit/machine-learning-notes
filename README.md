@@ -12,9 +12,6 @@ This repo is intended to assemble a collection of Colab Notebooks of the course 
 
 <p align="center">
 <img src="storage/book.png" width="180"  hspace="30" /> <img hspace="30" src="storage/book4.png" width="160"/>  
-</p>
-
-<p align="center">
 <img src="storage/book3.png" width="150"  hspace="30" /> <img  hspace="30" src="storage/book2.png" width="180" />  
 </p>
 
