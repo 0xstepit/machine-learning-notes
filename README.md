@@ -1,7 +1,7 @@
 # MACHINE LEARNING NOTES
 
 ```diff
-! please open all the notebooks with Colab since seems that GitHub has problem in visualizing long equations and didn't print them
+! please open all the notebooks with Jupyter since seems that GitHub has problem with HTML
 ```
 
 <p align="center">
